@@ -1,0 +1,13 @@
+/node_modules
+/public/uploads/*
+/public/uploads/category
+/public/uploads/product
+/public/uploads/slider
+/storage/*.key
+/vendor
+.env
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
